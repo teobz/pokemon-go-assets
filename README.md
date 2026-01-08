@@ -134,6 +134,8 @@ public/
 │   ├── pokestops-gyms/
 │   ├── rocket/
 │   ├── search-tags/
+│   │   ├── not-official/
+│   │   └── white-icons/
 │   ├── today-view/
 │   ├── types/
 │   └── ui/
@@ -155,6 +157,10 @@ Game assets sourced from [PokeMiners](https://pokeminers.com/) — a community p
 
 - Website: https://pokeminers.com/
 - Twitter: https://twitter.com/paborPokemon
+
+### Unofficial Search Tag Icons
+
+Unofficial search tag icons are created by teobz.
 
 ### PvPoke
 
